@@ -9,7 +9,7 @@ int main() {
 
 	for (i = 0; i < 9; i++)
 	{
-		j = i;	//현재 정렬할 원소를 선택 
+		j = i;	
 
 		while (array[j] > array[j + 1])
 		{
